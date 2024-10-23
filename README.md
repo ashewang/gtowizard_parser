@@ -43,6 +43,10 @@ Remember to update these tokens periodically or if you encounter authentication 
 
 This project requires Python 3.12 or higher. To install the necessary dependencies, run:
 
+```bash
+uv install
+```
+
 
 
 ## Data Format
